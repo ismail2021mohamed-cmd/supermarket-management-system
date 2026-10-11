@@ -53,3 +53,20 @@ This project was developed to combine software engineering, database management,
 **Ismail Mohamed**  
 Artificial Intelligence Engineering Student  
 Robotics & Embedded Systems | Machine Learning | Python & C++
+
+## 🚀 Installation & How to Run
+
+1. Download or clone this repository.
+2. Make sure Python 3 and Tkinter are installed.
+3. Open a terminal inside the project folder.
+4. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the application:
+
+```bash
+python supermarket_code_commented_ar.py
+```
